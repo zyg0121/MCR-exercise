@@ -1,3 +1,3 @@
-# MCR-exerice
+# MCR-Exercise
 
-Modern-Code-Review exercise for Team 16 in cityuHK CS5331 24fall
+Modern-Code-Review exercise for Team 16 in cityuHK CS5351 24fall
